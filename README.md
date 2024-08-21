@@ -45,7 +45,7 @@ The GRU model was trained using the mutation data. The model achieved the follow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ML-Models-for-Mutation-Impact-analysis.git
+   git clone https://github.com/yonas650/ML-Models-for-Mutation-Impact-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
